@@ -190,6 +190,7 @@
     .slideimg>img{
         width:40%;
     }
+    #abd{background-size: auto;}
     .slideimg{
         width:auto;
     }
