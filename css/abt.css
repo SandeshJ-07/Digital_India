@@ -16,7 +16,6 @@
     float: right;
 }
 .containc{
-    /* margin: 10px; */
     text-align: center;
     font-size: 2.5rem;
     font-weight: bold;
@@ -27,9 +26,9 @@
     background-size: cover;
 } 
 .conten{
-    margin:50px;
+    
+    margin:0 I !important;
     margin-top: 0;
-    /* padding: 50px; */
     padding-top: 0;
     background-image:url("../Img/bg.jpg");
     background-size:contain;
@@ -43,7 +42,6 @@
 .flex{
     display: flex;
     justify-content:space-evenly;
-    margin:20px;
 }
 #msimg{
     width: 60%;
